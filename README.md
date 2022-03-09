@@ -1,4 +1,4 @@
-# Modèle de scoring crédit
+# Analyse de données pour une Edtech
 
 ### Sommaire
 
